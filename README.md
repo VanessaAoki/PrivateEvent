@@ -2,18 +2,18 @@
   <a href="https://www.microverse.org/">
     <img alt="Microverse" src="https://img.shields.io/badge/-Microverse-blueviolet?style=flat-square">
   </a>
-  <a href="https://github.com/Emmyn5600/PrivateEvent/blob/development/LICENSE">
-    <img alt="MIT Licensed" src="https://img.shields.io/github/license/Emmyn5600/PrivateEvent?style=flat-square">
+  <a href="https://github.com/VanessaAoki/PrivateEvent/blob/development/LICENSE">
+    <img alt="MIT Licensed" src="https://img.shields.io/github/license/VanessaAoki/PrivateEvent?style=flat-square">
   </a>
-  <a href="https://github.com/Emmyn5600/PrivateEvent">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Emmyn5600/PrivateEvent/development?color=blue&style=flat-square">
+  <a href="https://github.com/VanessaAoki/PrivateEvent">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaAoki/PrivateEvent/development?color=blue&style=flat-square">
   </a>
 </p>
 
 
 # Private Events (Eventbrite)
 This is an app, created with Ruby on Rails, developed for you to create and attend events!
-> This is the 5th project of the Micoverse's Ruby on Rails module, the full description can be found at [the Odin Project’s](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations) website.
+> This is the 5th project of Micoverse's Ruby on Rails module, the full description can be found on [the Odin Project’s](https://www.theodinproject.com/courses/ruby-on-rails/lessons/associations) website.
 
 ![screenshot](./app/assets/images/img1.png)
 ![screenshot](./app/assets/images/img2.png)
@@ -25,9 +25,9 @@ This is an app, created with Ruby on Rails, developed for you to create and atte
 
 **What you can do with this project**
 - You can create Users and Events;
-- Once you sign in, you can:
-  - create events, with giving it a title, description, date, and location;
-  - attend or ignore events;
+- Once you sign up/log in, you can:
+  - Create events, giving them a title, description, date, and location;
+  - Attend or ignore events;
 
 ## Built With
 
